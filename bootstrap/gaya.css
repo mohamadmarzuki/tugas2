@@ -1,0 +1,28 @@
+.header{
+    display: flex;
+    flex-direction: column;
+}
+.atas{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.tengah{
+    display: flex;
+    flex-direction: row;
+    padding: 300px;
+    background: linear-gradient(to bottom, #ffffff 0%, #a9a9a9 100%);
+    color: #29487d;
+}
+img{
+    width: 450px; 
+    height: 160px;
+}
+.bawah{
+    display: flex;
+    flex-direction: row;
+    padding: 0px;
+    background-color: white;
+}
+
